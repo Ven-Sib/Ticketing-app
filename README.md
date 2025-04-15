@@ -1,10 +1,7 @@
-Got it! You want a **front-facing, styled version** — not just Markdown source. Here's how your `README.md` will actually **look when rendered on GitHub**, fully customized and professional for public view 👇
-
----
 
 # 🎟️ Ticketing System (Full Stack App)
 
-A powerful, full-stack event ticketing system built by **Vensen Sibanda**, combining the speed of **React.js** with the robustness of **Django REST Framework**.
+A powerful, full-stack event ticketing system, combining the speed of **React.js** with the robustness of **Django REST Framework**.
 
 ---
 
