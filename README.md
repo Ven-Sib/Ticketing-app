@@ -86,8 +86,13 @@ python manage.py createsuperuser
 
 
 ## 📸 Screenshots
-
-> _(Add screenshots of the queue, receipts, stats panel, etc.)_
+![Screenshot 2025-04-15 015241](https://github.com/user-attachments/assets/f84d505b-a634-4bbe-87a9-56152cf28e2a)
+![Screenshot 2025-04-15 015250](https://github.com/user-attachments/assets/06f1d319-2841-48f7-8667-42e59db3b017)
+![Screenshot 2025-04-15 015308](https://github.com/user-attachments/assets/52e10956-56bf-470b-9a72-aa277c1e04a1)
+![Screenshot 2025-04-15 015334](https://github.com/user-attachments/assets/e00b666b-9030-42f9-b33d-a621991122b9)
+![Screenshot 2025-04-15 015345](https://github.com/user-attachments/assets/7eaa0219-3822-49d2-a266-05807ccda557)
+![Screenshot 2025-04-15 015403](https://github.com/user-attachments/assets/7adabc84-88e6-4564-a540-bb40c83b8522)
+![Screenshot 2025-04-15 015525](https://github.com/user-attachments/assets/5c3342f1-049e-4501-92ec-e011fbf96080)
 
 
 ## 📦 Deployment Plans
