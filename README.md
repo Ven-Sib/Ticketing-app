@@ -35,11 +35,11 @@ A powerful, full-stack event ticketing system built by **Vensen Sibanda**, combi
 ## 📁 Project Structure
 
 ```
-ticketing-app/
+salesapp/
 ├── backend/          # Django project & API
 │   ├── manage.py
 │   └── ticketapi/
-├── frontend/         # React frontend
+├── Ticketing/         # React frontend
 │   ├── src/
 │   └── public/
 ├── README.md
@@ -87,20 +87,17 @@ Visit: `http://localhost:5173`
 python manage.py createsuperuser
 ```
 
----
 
 ## 📸 Screenshots
 
 > _(Add screenshots of the queue, receipts, stats panel, etc.)_
 
----
 
 ## 📦 Deployment Plans
 
 - React frontend → GitHub Pages (or Vercel)
 - Django backend → Render / Railway / Fly.io
 
----
 
 ## 🤝 Contributing
 
@@ -108,13 +105,6 @@ Pull requests are welcome.
 Open issues or suggest features here:  
 👉 [GitHub Issues](https://github.com/vensensibanda/ticketing-app/issues)
 
----
-
-## 📄 License
-
-Licensed under the MIT License — feel free to build on it!
-
----
 
 ## 🙌 Acknowledgements
 
@@ -123,12 +113,3 @@ Licensed under the MIT License — feel free to build on it!
 - [jsPDF](https://github.com/parallax/jsPDF)
 - [QRCode](https://github.com/soldair/node-qrcode)
 
----
-
-Would you like me to:
-
-- Add badge icons (e.g. stars, forks, license)?
-- Add sample screenshots (placeholder)?
-- Convert this to a downloadable README?
-
-Just say “yes” 💪
