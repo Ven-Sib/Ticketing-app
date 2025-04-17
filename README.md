@@ -5,21 +5,21 @@ A powerful, full-stack event ticketing system, combining the speed of **React.js
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🎫 **User Registration & Ticket Requests**
-- 🧾 **PDF Receipt Generation** (auto download + email)
-- 🟢 **Live Queue with Auto-Processing**
-- ❌ **Ticket Cancellation**
-- ✅ **Admin Login & Log View**
-- 📊 **Dynamic Stats** (sold, cancelled, available)
-- 📤 **Email Delivery of Ticket Receipts**
-- 🧩 **QR Code & Branding**
-- 🌐 **React Frontend + Django API**
+-  **User Registration & Ticket Requests**
+-  **PDF Receipt Generation** (auto download + email)
+-  **Live Queue with Auto-Processing**
+-  **Ticket Cancellation**
+-  **Admin Login & Log View**
+-  **Dynamic Stats** (sold, cancelled, available)
+-  **Email Delivery of Ticket Receipts**
+-  **QR Code & Branding**
+-  **React Frontend + Django API**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Frontend                         | Backend                 | Tools                 |
 |----------------------------------|--------------------------|------------------------|
@@ -29,7 +29,7 @@ A powerful, full-stack event ticketing system, combining the speed of **React.js
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 salesapp/
@@ -45,9 +45,9 @@ salesapp/
 
 ---
 
-## ⚙️ Getting Started
+## ⚙ Getting Started
 
-### 🐍 Backend (Django)
+###  Backend (Django)
 
 ```bash
 cd backend
@@ -62,7 +62,7 @@ Visit: `http://127.0.0.1:8000/api/`
 
 ---
 
-### ⚛️ Frontend (React)
+###  Frontend (React)
 
 ```bash
 cd frontend
@@ -74,7 +74,7 @@ Visit: `http://localhost:5173`
 
 ---
 
-## 🔐 Admin Access
+##  Admin Access
 
 - Django Admin: `http://127.0.0.1:8000/admin/`
 - Or use the **custom admin login page**
@@ -85,7 +85,7 @@ python manage.py createsuperuser
 ```
 
 
-## 📸 Screenshots
+##  Screenshots
 ![Screenshot 2025-04-15 015241](https://github.com/user-attachments/assets/f84d505b-a634-4bbe-87a9-56152cf28e2a)
 ![Screenshot 2025-04-15 015250](https://github.com/user-attachments/assets/06f1d319-2841-48f7-8667-42e59db3b017)
 ![Screenshot 2025-04-15 020153](https://github.com/user-attachments/assets/7a85e61b-687a-47c9-82ac-859590e5f80c)
@@ -95,20 +95,20 @@ python manage.py createsuperuser
 ![Screenshot 2025-04-15 015525](https://github.com/user-attachments/assets/5c3342f1-049e-4501-92ec-e011fbf96080)
 
 
-## 📦 Deployment Plans
+##  Deployment Plans
 
 - React frontend → GitHub Pages (or Vercel)
 - Django backend → Render / Railway / Fly.io
 
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests are welcome.  
 Open issues or suggest features here:  
 👉 [GitHub Issues](https://github.com/vensensibanda/ticketing-app/issues)
 
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 - [React](https://reactjs.org)
 - [Django](https://www.djangoproject.com/)
